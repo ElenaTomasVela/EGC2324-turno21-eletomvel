@@ -3,7 +3,7 @@ name: Python application
 on: 
   push:
     branches:
-      - egc_env
+      - egc_test
 
     
   
